@@ -2,6 +2,12 @@
 
 Disable Monster Hunter World's CRC checks
 
+**How to use:** Inject dll into MonsterHunterWorld.exe
+
+Upon injection, CRC is disabled by default
+
+To undo, type "undo" in the allocated console
+
 # Console commands
 ```
 undo - Undo the patches
